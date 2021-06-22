@@ -1,0 +1,7 @@
+C:\Users\personal\source\repos\Proyecto unidad 5 y 6 aaaAAAAa\Proyecto unidad 5 y 6 aaaAAAAa\bin\Debug\Proyecto unidad 5 y 6 aaaAAAAa.exe.config
+C:\Users\personal\source\repos\Proyecto unidad 5 y 6 aaaAAAAa\Proyecto unidad 5 y 6 aaaAAAAa\bin\Debug\Proyecto unidad 5 y 6 aaaAAAAa.exe
+C:\Users\personal\source\repos\Proyecto unidad 5 y 6 aaaAAAAa\Proyecto unidad 5 y 6 aaaAAAAa\bin\Debug\Proyecto unidad 5 y 6 aaaAAAAa.pdb
+C:\Users\personal\source\repos\Proyecto unidad 5 y 6 aaaAAAAa\Proyecto unidad 5 y 6 aaaAAAAa\obj\Debug\Proyecto unidad 5 y 6 aaaAAAAa.csprojAssemblyReference.cache
+C:\Users\personal\source\repos\Proyecto unidad 5 y 6 aaaAAAAa\Proyecto unidad 5 y 6 aaaAAAAa\obj\Debug\Proyecto unidad 5 y 6 aaaAAAAa.csproj.CoreCompileInputs.cache
+C:\Users\personal\source\repos\Proyecto unidad 5 y 6 aaaAAAAa\Proyecto unidad 5 y 6 aaaAAAAa\obj\Debug\Proyecto unidad 5 y 6 aaaAAAAa.exe
+C:\Users\personal\source\repos\Proyecto unidad 5 y 6 aaaAAAAa\Proyecto unidad 5 y 6 aaaAAAAa\obj\Debug\Proyecto unidad 5 y 6 aaaAAAAa.pdb
